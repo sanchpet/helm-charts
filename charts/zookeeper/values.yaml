@@ -43,7 +43,7 @@ image:
   ## @param image.repository Zookeeper image repository
   repository: zookeeper
   ## @param image.tag Zookeeper image tag
-  tag: "3.9.6@sha256:5bad433c71701a1d788b4df86c921d91bfb65c23a1443bcb18a80f40373ae9d9"
+  tag: "3.9.7@sha256:09b5097fb50875a286d9b64a356a94fd01830b0180e6488f1519e55e206393c2"
   ## @param image.pullPolicy Zookeeper image pull policy
   imagePullPolicy: Always
 
